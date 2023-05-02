@@ -65,8 +65,8 @@ let linksData = [
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "参宿璀璨",
+    link: "https://0dzry-my.sharepoint.com/:v:/g/personal/naya_m_lizonglin_site/EWwXaeHSAnNMvMgPUjNwyxMBs0qT2PkDjoLgbM0e3BraFA?e=ZegIC4",
   },
   {
     icon: Fire,
