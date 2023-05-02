@@ -51,7 +51,7 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://e5.lizonglin.site/",
   },
   {
     icon: CompactDisc,
