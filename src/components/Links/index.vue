@@ -60,8 +60,8 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "老站点",
+    link: "http://old.lizonglin.site/",
   },
   {
     icon: Book,
