@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://www.cnblogs.com/naya2016/#/c/subject/category/default.html",
   },
   {
     icon: Cloud,
@@ -56,7 +56,7 @@ let linksData = [
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "https://music.lizonglin.site/",
   },
   {
     icon: Compass,
