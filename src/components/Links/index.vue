@@ -70,8 +70,8 @@ let linksData = [
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    name: "工作室",
+    link: "http://naya2016.gitee.io/",
   },
 ];
 
