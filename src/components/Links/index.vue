@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://www.cnblogs.com/naya2016/#/c/subject/category/default.html",
+    link: "https://blog.lizonglin.site/",
   },
   {
     icon: Cloud,
