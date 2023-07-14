@@ -56,7 +56,7 @@ let linksData = [
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.lizonglin.site/",
+    link: "https://y.lizonglin.site/",
   },
   {
     icon: Compass,
