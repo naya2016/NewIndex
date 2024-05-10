@@ -7,7 +7,7 @@
         class="down"
         :href="bgUrl"
         target="_blank"
-        v-show="store.backgroundShow && store.coverType != '3'"
+        v-show="store.backgroundShow && store.coverType != '2'"
         >下载壁纸</a
       >
     </transition>
@@ -30,7 +30,7 @@ const changeBg = (type) => {
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
-    bgUrl.value = "https://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images";
+    bgUrl.value = "https://i.mji.rip/2024/05/10/793cce1b0b90b32a6b3dbf12b66b2a92.png";
   } else if (type == 3) {
     bgUrl.value = "https://api.xn--kwrv56eiei.cn/api/hello.php";
   }
